@@ -41,7 +41,7 @@ A simple browser-based implementation of the classic **Tic Tac Toe** game. Built
 
 ## 📷 Preview
 
-> ![Preview Screenshot](preview.png)
+![alt text](image.png)
 
 *(Replace with actual screenshot if hosting this on GitHub)*
 

@@ -1,4 +1,4 @@
-# TicTacToe# 🎮 Tic Tac Toe Game (HTML | CSS | JavaScript)
+# TicTacToe 🎮 Tic Tac Toe Game (HTML | CSS | JavaScript)
 
 A simple browser-based implementation of the classic **Tic Tac Toe** game. Built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries.
 
@@ -54,12 +54,6 @@ A simple browser-based implementation of the classic **Tic Tac Toe** game. Built
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
 3. Play the game!
-
----
-
-## 📝 Author
-
-Made with 💚 by [Your Name]
 
 ---
 

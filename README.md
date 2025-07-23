@@ -1,4 +1,4 @@
-# TicTacToe 🎮 Tic Tac Toe Game (HTML | CSS | JavaScript)
+#🎮 Tic Tac Toe Game (HTML | CSS | JavaScript)
 
 A simple browser-based implementation of the classic **Tic Tac Toe** game. Built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries.
 

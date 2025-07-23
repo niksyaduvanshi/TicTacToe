@@ -42,9 +42,10 @@ A simple browser-based implementation of the classic **Tic Tac Toe** game. Built
 ## 📷 Preview
 
 ![alt text](image.png)
+![TicTacToe game interface showing a 3x3 grid with X and O marks, X wins diagonally. The background is light green, grid buttons are brown, and the title TicTacToe is displayed at the top. Below the grid is a dark reset button. The overall tone is playful and inviting.]
 
-*(Replace with actual screenshot if hosting this on GitHub)*
-
+![alt text](image-2.png)
+![TicTacToe victory screen showing the message Congratulation, Player X wins in large gold text centered on a light green background. Below the message is a prominent dark brown button labeled New Game. The overall tone is cheerful and celebratory, with a clean and inviting interface.]
 ---
 
 ## 🛠️ How to Run

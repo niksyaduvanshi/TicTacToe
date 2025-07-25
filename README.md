@@ -45,7 +45,7 @@ A simple browser-based implementation of the classic **Tic Tac Toe** game. Built
 
 ![Middle of Playing Game](Images_of_UI/image-2.png)
 
-!(Images_of_UI/image-3.png)
+![](Images_of_UI/image-3.png)
 
 ---
 

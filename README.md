@@ -41,11 +41,11 @@ A simple browser-based implementation of the classic **Tic Tac Toe** game. Built
 
 ## 📷 Preview
 
-![alt text](image.png)
+![New Page](Images_of_UI/image.png)
 
-![alt text](image-2.png)
+![Middle of Playing Game](Images_of_UI/image-2.png)
 
-![alt text](image-3.png)
+![After Game completed](Images_of_UI/image-3.png)
 
 ---
 
